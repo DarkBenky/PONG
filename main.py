@@ -116,7 +116,7 @@ opponent_score = 0
 game_font = pygame.font.Font("freesansbold.ttf", 32)
 
 # score timer
-score_timer = None
+score_timer = True
 
 while RUN:
     
